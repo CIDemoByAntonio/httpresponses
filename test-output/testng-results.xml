@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10541" started-at="2015-11-01T16:13:16Z" finished-at="2015-11-01T16:13:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10541" started-at="2015-11-01T16:13:16Z" finished-at="2015-11-01T16:13:27Z">
+      <class name="org.orgselenium.pagefactory.tests.DigitasLbiTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.orgselenium.pagefactory.tests.DigitasLbiTest@fc3d7e7]" name="beforeMethod" is-config="true" duration-ms="6746" started-at="2015-11-01T17:13:16Z" finished-at="2015-11-01T17:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLandingPage()[pri:0, instance:org.orgselenium.pagefactory.tests.DigitasLbiTest@fc3d7e7]" name="testLandingPage" duration-ms="3316" started-at="2015-11-01T17:13:23Z" finished-at="2015-11-01T17:13:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLandingPage -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:org.orgselenium.pagefactory.tests.DigitasLbiTest@fc3d7e7]" name="afterMethod" is-config="true" duration-ms="467" started-at="2015-11-01T17:13:26Z" finished-at="2015-11-01T17:13:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- org.orgselenium.pagefactory.tests.DigitasLbiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
